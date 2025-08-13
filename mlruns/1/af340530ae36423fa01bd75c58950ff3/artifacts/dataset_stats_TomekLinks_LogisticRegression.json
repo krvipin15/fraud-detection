@@ -1,0 +1,19 @@
+{
+  "X_train_shape": [
+    220510,
+    29
+  ],
+  "y_train_shape": [
+    220510
+  ],
+  "X_test_shape": [
+    55133,
+    29
+  ],
+  "y_test_shape": [
+    55133
+  ],
+  "train_neg": 220132,
+  "train_pos": 378,
+  "scale_pos_weight": 582.3597883597884
+}
