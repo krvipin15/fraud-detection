@@ -1,0 +1,12 @@
+{
+  "train_resampled_shape": [
+    220510,
+    29
+  ],
+  "test_shape": [
+    55133,
+    29
+  ],
+  "resampling_method": "TomekLinks",
+  "scale_pos_weight": 582.3597883597884
+}
